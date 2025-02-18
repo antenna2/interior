@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of FOXAK Digi 144.39</name>
+<GroundOverlay><name>Coverage</name>
+<description>144.390 MHz | 
+20.00 W ERPI | 
+157.53 dB System Gain</description>
+<color>88ffffff</color><Icon><href>RM2B0D63AD0A78_7.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 66.7863</north>
+<south> 63.18901</south>
+<east>-143.3439</east>
+<west>-151.8519</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>Fox</name>
+<Point><coordinates>-147.59788513, 64.98765286,0
+</coordinates></Point></Placemark></Folder></kml>

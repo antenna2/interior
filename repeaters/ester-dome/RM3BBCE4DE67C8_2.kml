@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of Ester Dome 146.88- T103.5</name>
+<GroundOverlay><name>Coverage</name>
+<description>146.880 MHz | 
+50.00 W ERPI | 
+161.51 dB System Gain</description>
+<color>88ffffff</color><Icon><href>RM3BBCE4DE67C8_2.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 66.67794</north>
+<south> 63.08065</south>
+<east>-143.8182</east>
+<west>-152.2918</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>Ester Dome</name>
+<Point><coordinates>-148.05498719, 64.87929197,0
+</coordinates></Point></Placemark></Folder></kml>

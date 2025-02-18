@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of Eielson (Pole Hill) 147.12+ T103.5</name>
+<GroundOverlay><name>Coverage</name>
+<description>147.120 MHz | 
+50.00 W ERPI | 
+161.51 dB System Gain</description>
+<color>88ffffff</color><Icon><href>RM3BBCE4DE67C8_0.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 66.44159</north>
+<south> 62.8443</south>
+<east>-142.5102</east>
+<west>-150.91</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>Eielson (Pole Hill)</name>
+<Point><coordinates>-146.71011686, 64.64294734,0
+</coordinates></Point></Placemark></Folder></kml>
